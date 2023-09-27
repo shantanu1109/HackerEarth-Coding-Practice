@@ -1,4 +1,4 @@
-# Function to calculate the minimum cost for each test case
+# Function to calculate the minimum cost for each test case.
 def minimum_cost(test_cases):
     for test_case in test_cases:
         green_cost, purple_cost = test_case['costs']
